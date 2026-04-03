@@ -12,9 +12,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-anand-374930161/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekanandmgs2017@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abhishek-anand)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abhishek-insights999)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek-anand&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek-insights999&color=brightgreen&style=flat-square)
 
 </div>
 
@@ -211,14 +211,14 @@ Python • Pandas • Matplotlib • Seaborn
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-anand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-anand&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek-insights999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-insights999&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-anand&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-insights999&theme=tokyonight)
 
 
 </div>
@@ -266,7 +266,7 @@ I'm open to opportunities in **Data Analytics | Business Intelligence | Financia
 
 📧 **Email:** abhishekanandmgs2017@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/abhishek-anand-374930161](https://www.linkedin.com/in/abhishek-anand-374930161/)  
-🐙 **GitHub:** [github.com/abhishek-anand](https://github.com/abhishek-anand)
+🐙 **GitHub:** [github.com/abhishek-insights999](https://github.com/abhishek-insights999)
 
 </div>
 
@@ -284,7 +284,7 @@ I'm open to opportunities in **Data Analytics | Business Intelligence | Financia
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/abhishek-anand/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/abhishek-insights999/count.svg)
 
 **Thanks for visiting!** ⭐ Feel free to explore my repositories and reach out for collaboration!
 
